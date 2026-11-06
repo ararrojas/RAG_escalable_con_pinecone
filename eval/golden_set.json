@@ -1,0 +1,22 @@
+[
+  {
+    "pregunta": "¿Cómo reemplazo una dependencia por una versión de prueba en los tests de FastAPI?",
+    "documento_id_esperado": "fastapi_dependencies"
+  },
+  {
+    "pregunta": "¿Qué significa scope=\"session\" en una fixture de pytest?",
+    "documento_id_esperado": "pytest_fixtures"
+  },
+  {
+    "pregunta": "¿Cómo detecto las filas que solo existen en una tabla al hacer un merge con indicator?",
+    "documento_id_esperado": "pandas_merge_groupby"
+  },
+  {
+    "pregunta": "¿Cómo limito cuántas corrutinas se ejecutan a la vez usando Semaphore?",
+    "documento_id_esperado": "asyncio_tasks"
+  },
+  {
+    "pregunta": "¿Cómo valido un campo con field_validator en Pydantic v2?",
+    "documento_id_esperado": "pydantic_validation"
+  }
+]

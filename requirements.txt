@@ -1,0 +1,13 @@
+# Versiones probadas juntas (Python 3.10+)
+langchain==1.4.9
+langchain-classic==1.0.8
+langchain-community==0.4.2
+langchain-core==1.7.6
+langchain-google-genai>=2.1
+langchain-pinecone==0.2.13
+langchain-text-splitters==1.1.3
+pinecone==7.3.0
+tiktoken==0.14.0
+rank-bm25==0.2.2
+pypdf==6.21.4
+python-dotenv==1.2.4

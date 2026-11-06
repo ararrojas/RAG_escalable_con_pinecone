@@ -1,0 +1,21 @@
+# Secretos
+.env
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Artefactos generados (se recrean con: python src/ingest.py)
+artifacts/*
+!artifacts/.gitkeep
+
+# Sistema / editor
+.DS_Store
+.idea/
+.vscode/
