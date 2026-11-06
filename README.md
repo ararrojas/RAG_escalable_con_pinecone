@@ -1,0 +1,1 @@
+# RAG_escalable_con_pinecone
